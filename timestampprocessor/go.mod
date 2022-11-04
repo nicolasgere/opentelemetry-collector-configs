@@ -1,4 +1,4 @@
-module github.com/honeycombio/opentelemetry-collector-configs/timestampprocessor
+module github.com/nicolasgere/opentelemetry-collector-configs/timestampprocessor
 
 go 1.18
 
